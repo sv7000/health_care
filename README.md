@@ -76,7 +76,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/healthcare.git
+git clone https://github.com/sv7000/health_care.git
 cd healthcare
 ```
 
